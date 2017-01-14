@@ -1,0 +1,17 @@
+.idea
+.DS_Store
+logs
+project/project
+project/target
+target
+target-run
+tmp
+.history
+dist
+node_modules
+trace/tmp/
+.lck
+.log
+.properties
+.script
+logfile.log
